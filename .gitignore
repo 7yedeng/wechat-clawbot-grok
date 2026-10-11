@@ -1,0 +1,8 @@
+state/
+logs/
+.venv/
+**/session.json
+**/qrcode_token.txt
+**/*token*
+.env
+.env.*
